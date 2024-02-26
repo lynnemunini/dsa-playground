@@ -1,2 +1,3 @@
 # dsa-playground
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+
+This repository serves as a learning tool for me to deepen my understanding of DSA. Here, you'll find my solutions to various LeetCode questions as I explore and practice DSA concepts. 
